@@ -18,7 +18,6 @@ bot=commands.Bot(command_prefix="!",intents=intents)
 plt.rcParams["font.sans-serif"] = ["Microsoft YaHei", "SimHei", "Noto Sans CJK SC"]
 plt.rcParams["axes.unicode_minus"] = False
 API = "https://api.earthmc.net/v4"
-#Kuze_Hibiki 版权所有 盗窃死妈
 #函数部分
 _cache = {}
 def make_autopct(values):
